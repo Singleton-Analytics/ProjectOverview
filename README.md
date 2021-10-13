@@ -23,6 +23,8 @@ ML has key advantages over pathologists.
 First, machines can run much faster than humans. A biopsy usually takes 10 days for a pathologist. A computer can take thousands of biopsies in seconds.
 Singleton Analytics understood this and combined the power of AI with proprietary cancer medical data to implement an out-of-the-box solution.
 
+![Image10](https://user-images.githubusercontent.com/38832580/137221029-1f84abcb-f67c-43fc-acfb-d434f4f6c94c.png)
+
 ## Background
 
 The idea of this this platform was a result of the collaboration between me, Mohamed Mostapha, Software Engineer and my colleague Elkhait Meine, Data Scientist. Indeed, a few months ago we participated in a competition on the classification of cancer [SIIM-ISIC-Melanoma-Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification) on the [Kaggle platform](https://www.kaggle.com/), the largest community dedicated to Data Science. The objective of this competition was to detect the potential presence of melanoma in images of skin lesions. In the first session, we got the 32nd position out of a total of more than 4000 teams around the world. Following these results, we were contacted by a South African company inviting us to an effective collaboration to help them refine their diagnosis.
